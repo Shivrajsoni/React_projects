@@ -6,6 +6,7 @@ import Logo from "./Logo"
 import LogoutBttn from "./Header/LogoutBttn";
 import Button from "./Button";
 import Input from "./Input.jsx";
+import RTE from "./RTE.jsx"
 export {
     Header,
     Footer,
@@ -13,5 +14,6 @@ export {
     Logo,
     LogoutBttn,
     Button,
-    Input
+    Input,
+    RTE
 }
